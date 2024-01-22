@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annltm
 - 👀 I’m a senior data analyst
-- 🌱 I’m skilled in python (pandas, matplotlib, scikit_lean, Keras & TensorFlow
+- 🌱 I’m skilled in python (pandas, matplotlib, scikit_lean, Keras & TensorFlow etc.)
 - 📫 you can reach me via email lnhxltm@gmail.com
 
 <!---
