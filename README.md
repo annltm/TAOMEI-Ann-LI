@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annltm
-- 👀 I’m interested in data science courses
-- 🌱 I’m currently learning data science fundations-data analysis by pandas and python, statistics
+- 👀 I’m a senior data analyst
+- 🌱 I’m skilled in python (pandas, matplotlib, scikit_lean, Keras & TensorFlow
 - 📫 you can reach me via email lnhxltm@gmail.com
 
 <!---
